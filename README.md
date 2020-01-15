@@ -1,2 +1,2 @@
 # Distributed-Computing
-This is my work on Distributed Computing in 7th semester.
+This repo contains all the lab tasks, assignments and projects that I had my hands-on during my Distributed Computing course.
