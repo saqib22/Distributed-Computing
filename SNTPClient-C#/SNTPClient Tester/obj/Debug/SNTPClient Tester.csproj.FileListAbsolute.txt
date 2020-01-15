@@ -1,0 +1,11 @@
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClient Tester.csprojAssemblyReference.cache
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClientTester.FormMain.resources
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClientTester.Properties.Resources.resources
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClient Tester.csproj.GenerateResource.cache
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\bin\Debug\SNTPClient Tester.exe
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\bin\Debug\SNTPClient Tester.pdb
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\bin\Debug\Components.dll
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\bin\Debug\Components.pdb
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClient Tester.csproj.CopyComplete
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClient Tester.exe
+C:\Users\phantom\Desktop\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClient Tester.pdb

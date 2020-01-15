@@ -1,0 +1,5 @@
+C:\Users\phantom\Desktop\SNTPClient Solution\Components\bin\Debug\Components.dll
+C:\Users\phantom\Desktop\SNTPClient Solution\Components\bin\Debug\Components.pdb
+C:\Users\phantom\Desktop\SNTPClient Solution\Components\obj\Debug\Components.dll
+C:\Users\phantom\Desktop\SNTPClient Solution\Components\obj\Debug\Components.pdb
+C:\Users\phantom\Desktop\SNTPClient Solution\Components\obj\Debug\Components.csprojAssemblyReference.cache

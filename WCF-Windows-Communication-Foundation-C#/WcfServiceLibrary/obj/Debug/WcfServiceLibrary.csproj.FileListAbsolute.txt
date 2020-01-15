@@ -1,0 +1,6 @@
+C:\Users\phantom\source\repos\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+C:\Users\phantom\source\repos\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+C:\Users\phantom\source\repos\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\phantom\source\repos\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
+C:\Users\phantom\source\repos\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\Users\phantom\source\repos\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
